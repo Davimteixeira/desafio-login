@@ -31,8 +31,8 @@ Este é um sistema de autenticação em Django que inclui funcionalidades de **r
 ### **1️⃣ Clonar o Repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Davimteixeira/desafio-login.git
+cd desafio-login
 ```
 
 ### **2️⃣ Criar um Ambiente Virtual**
@@ -159,5 +159,3 @@ http://127.0.0.1:8000/
 Este projeto é de código aberto e pode ser usado e modificado livremente.
 
 ---
-
-Agora seu **README.md** está completo, profissional e pronto para ser publicado! 🚀🔥
