@@ -1,0 +1,56 @@
+# Arquivos Python
+*.pyc
+__pycache__/
+.Python
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente virtual
+.venv/
+venv/
+env/
+*.egg
+*.log
+
+# Arquivos de banco de dados
+*.db
+*.sqlite3
+
+# Arquivos de mídia
+media/*
+
+# Arquivos estáticos
+static/*
+
+# Arquivos de configuração
+.env
+local_settings.py
+
+# Arquivos de teste
+*.test
+*.tests
+
+# Arquivos de pacotes
+*.dist-info
+*.egg-info
+build/
+dist/
+
+# Arquivos do sistema operacional
+.vscode/
+.idea/
+*.swp
+*~
+*.tmp
+
+# Arquivos específicos do Django
+__init__.pyc
+
+# Ignorar a pasta migrations, exceto o arquivo __init__.py
+*/migrations/*
+!*/migrations/__init__.py
+
+# Ignorar arquivos de cache do Django
+.cache/*
